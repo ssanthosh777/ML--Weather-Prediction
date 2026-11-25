@@ -172,3 +172,4 @@ Average Cross Validation Score
 ```
 
 ## Result:
+Thus, the Random Forest Regression algorithm was successfully implemented to predict daily temperature, PM2.5 pollution level, and energy consumption using environmental sensor data. The model effectively learned the patterns in the sensor data and produced the required predictions.
